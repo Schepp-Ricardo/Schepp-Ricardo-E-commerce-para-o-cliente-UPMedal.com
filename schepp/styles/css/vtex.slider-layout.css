@@ -1,0 +1,21 @@
+.sliderLayoutContainer {
+    max-width: 1080px;
+    margin: 25px auto;
+}
+
+.caretIcon {
+ color: white;
+}
+
+.paginationDot {
+    background-color: rgb(184, 184, 184);
+}
+
+.paginationDot--isActive {
+    background-color: green;
+}
+
+.imageElement {
+    padding-bottom: 35px;
+    height: 350px;
+}
